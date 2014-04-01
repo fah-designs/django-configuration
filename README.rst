@@ -11,6 +11,7 @@ permissions) can be used.
 
 Installation
 ============
+Install from pypi using your favorite method:::
 
     pip install django-configuration
 
