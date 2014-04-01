@@ -10,7 +10,7 @@ setup(
     long_description=open('README.rst').read(),
     author='Richard Ward',
     author_email='richard.ward@fah-designs.co.uk',
-    url='http://fah-designs.co.uk/',
+    url='https://github.com/fah-designs/django-configuration',
     install_requires=[
         'django',
         'django-polymorphic',
